@@ -7,8 +7,7 @@ A **Data Analyst Enthusiast** with a passion for turning raw data into powerful 
 
 ---
 
-## 🚀 What I Do
-
+### **🚀 What I Do**
 
 - 📊 Transform complex datasets into clear, actionable insights  
 - 🧮 Build predictive models to solve real-world problems  
@@ -16,7 +15,7 @@ A **Data Analyst Enthusiast** with a passion for turning raw data into powerful 
 
 ---
 
-## 🛠 Tech Stack & Skills
+### **🛠 Tech Stack & Skills**
 
 **Languages & Tools:** Python, R, SQL, SPSS, Minitab, and STATA  
 **Data Visualization:** Power BI, Tableau, and Looker Studio  
@@ -26,8 +25,10 @@ A **Data Analyst Enthusiast** with a passion for turning raw data into powerful 
 
 ---
 
-## 📬 Let’s Connect!
+### **📬 Let’s Connect!**
+
 Feel free to explore my projects and reach out if you have any questions or feedback. 
+
 💼 [LinkedIn](https://www.linkedin.com/in/srirahayuy/)  
 📧 **srirhyuyy2101@gmail.com**  
 
